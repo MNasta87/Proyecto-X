@@ -45,7 +45,7 @@ body{
   }
 
  
-  h3{
+  h3, h4{
       color: white;
   }
 
@@ -59,4 +59,9 @@ a{
 }
 .a2{
     color:#e68383 ;
+}
+
+.img-fluid{
+max-width: 100%;
+height: auto;
 }
